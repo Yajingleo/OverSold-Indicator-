@@ -8,3 +8,6 @@ The relative strength index (RSI) is a momentum indicator that measures the magn
 
 2. [KDJ curves:](https://en.wikipedia.org/wiki/Stochastic_oscillator)
 In technical analysis of securities trading, the stochastic oscillator is a momentum indicator that uses support and resistance levels.
+
+``%K=100*(Price-L5)/(H5-L5)``
+``%D=((K1+K2+K3)/3)``
